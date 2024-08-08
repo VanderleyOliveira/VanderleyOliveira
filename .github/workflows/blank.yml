@@ -21,7 +21,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#ffffff"        # Cor da cobra (branco)
           background_color: "#000000"   # Cor de fundo (preto)
 
       # Adiciona a imagem gerada no commit
