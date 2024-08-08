@@ -5,6 +5,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanderleyOliveira&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=228B22&title_color=fff&text_color=FFF)
+
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanderleyOliveira&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF)
   
 </div>
