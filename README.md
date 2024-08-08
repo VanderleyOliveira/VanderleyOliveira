@@ -1,8 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Me+chamo+Vanderley!;" />
-</h1>
-
-<h3 align="left">Hello!👋 Me chamo Vanderley e estou iniciando minha jornada no desenvolvimento web!</h3>
+<h1 align="center">Hello, I'm Vanderley and aspiring web developer</h1>
 
 ###
 
@@ -12,7 +8,7 @@
 </div>
 
 ###
-
+### Languages, Frameworks and tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
