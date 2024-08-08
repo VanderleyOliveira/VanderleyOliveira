@@ -25,9 +25,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/VanderleyOliveira/VanderleyOliveira/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
