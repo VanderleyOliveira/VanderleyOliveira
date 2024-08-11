@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Vanderley e sou um desenvolvedor web!</h1>
+<h1 align="center">Olá👋🏽, me chamo Vanderley e sou um desenvolvedor web!🧑🏽‍💻</h1>
 
 ###
 
