@@ -1,16 +1,5 @@
-<h1 align="center">Olá👋🏽, me chamo Vanderley e sou um desenvolvedor web!🧑🏽‍💻</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vanderley Oliveira </h1>
 
-###
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanderleyOliveira&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
-
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanderleyOliveira&layout=compact&bg_color=000&border_color=fff&title_color=fff&text_color=FFF)
-  
-</div>
-
-###
 ### Languages, Frameworks and tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -24,3 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
 </div>
+
+### Social Medias
+
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira/)
+ [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-52559E?style=for-the-badge)](https://www.dio.me/users/vanderleyoliv21)
