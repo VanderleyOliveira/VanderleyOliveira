@@ -1,4 +1,17 @@
-<h2 align="center">Welcome to my profile!</h2>
+<h1 align="center">Hello, World!</h1>
+
+<p align="left">My name is Vanderley and I'm a Web Developer from Brazil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<img align="right" height="125" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">📖 I'm currently learning JavaScript and React<br>🎯 Goals: Be a full-stack developer<br>🔎 A Curiosity: I develop some web applications with No-Code</p>
+
+###
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=VanderleyOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&border_color=17483F&order=1" height="150" alt="stats graph"  />
@@ -32,3 +45,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
 </div>
+
+
+---------------------------------///---------------------------------
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VanderleyOliveira/VanderleyOliveira/output/snake.svg" alt="Snake animation" />
+
+###
