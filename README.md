@@ -3,7 +3,7 @@ My name is Vanderley and I'm a Web Developer from Brazil
 
 ## 🧑🏽‍💻About me
 📖 I'm currently learning JavaScript and React<br>
-🎯 Goals: Be a full-stack developer<br>
+🎯 Goal: Be a full-stack developer<br>
 🔎 A Curiosity: I develop some web applications with No-Code
 
 <br>
