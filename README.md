@@ -6,8 +6,6 @@ My name is Vanderley and I'm a Web Developer from Brazil
 🎯 Goal: Be a full-stack developer<br>
 🔎 A Curiosity: I develop some web applications with No-Code
 
-<br>
-
 ## I code with
 
 <div align="left">
