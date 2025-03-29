@@ -16,5 +16,5 @@
 
 <h2>📲 Social media:</h2> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderley-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077cc?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vanderley-oliveira/)
 [![Profile DIO](https://img.shields.io/badge/Meu%20Perfil%20na%20DIO-7d54af?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/vanderleyoliv21)
