@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Vanderley</h1>
+<h1 align="center">Hello👋🏽 I'm Vanderley</h1>
 
 - 🧑🏽‍💻 I'm Frontend Developer
 - 📖 Currently learning Node and Express
