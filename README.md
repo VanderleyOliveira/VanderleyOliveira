@@ -4,45 +4,36 @@
 const desenvolvedor = {
 
   // 🧑🏽‍💻 Sobre Mim
-  sobreMim: {
+  sobre: {
     nome: "Vanderley Oliveira",
-    idade: 19,
     localizacao: "Fortaleza - CE",
-    profissao: "Programador",
-    status: "Sempre aprendendo algo novo 🧠",
-    objetivo: "Desenvolver ideias que impactem positivamente a vida das pessoas"
-  },
+    objetivo_profissional: "Desenvolver ideias que impactem positivamente a vida das pessoas"
+  }
 
-  // 🛠️ Habilidades Técnicas
-  habilidadesTecnicas: {
-    linguagens: {
-      javascript: "básico-intermediário"
-    },
-    frontend: {
-      react: "Básico",
-      html_css: "Intermediário"
-    },
-    backend: {
-      nodejs: "Básico",
-      express: "Básico"
-    },
-    databases: ["MySQL", "SupaBase"],
-    ferramentas: ["Git", "Docker", "VS Code", "Figma"]
-  },
-
-  // 🎓 Formação
-  formacao: {
-    graduacao: "Análise e Desenvolvimento de Sistemas - UniCesumar",
-    certificacoes: [
-      "Santander Tech+ | Front-end"
+  // 🎓 Formações
+  formacoes: {
+    cursos: [
+      {
+        nome: "Tecnologo em Análise e Desenvolvimento de Sistemas",
+        instituicao: "UniCesumar",
+        data_inicio: "08/2024",
+        data_conclusao: "02/2027",
+        status: "em andamento"
+      },
+      {
+        nome: "Curso Técnico em Informática",
+        instituicao: "EEEP Alan Pinho Tabosa",
+        data_inicio: "01/2021",
+        data_conclusao: "12/2023",
+        status: "concluído"
+      }
     ],
-    cursos: ["DIO", "IEL", "TIC em Trilhas"]
-  },
+    certificacoes: [
+      "Técnico em Informática",
+      "Santander Tech+ | Front-end"
+    ]
+  }
 };
-
-// ⚙️ Executando...
-console.log("Desenvolvedor inicializado com sucesso! 🎉");
-console.log("Disponível para novas oportunidades e colaborações!");
 ```
 
 ###
