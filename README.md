@@ -7,7 +7,7 @@ const desenvolvedor = {
   sobre: {
     nome: "Vanderley Oliveira",
     localizacao: "Fortaleza - CE",
-    objetivo_profissional: "Desenvolver ideias que impactem positivamente a vida das pessoas"
+    objetivo_profissional: "Desenvolver soluções que impactem positivamente a vida das pessoas"
   }
 
   // 🎓 Formações
@@ -17,7 +17,6 @@ const desenvolvedor = {
         nome: "Tecnologo em Análise e Desenvolvimento de Sistemas",
         instituicao: "UniCesumar",
         data_inicio: "08/2024",
-        data_conclusao: "02/2027",
         status: "em andamento"
       },
       {
@@ -48,6 +47,7 @@ const desenvolvedor = {
 ![Logo Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Logo WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Logo Elementor](https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=Elementor&logoColor=900d40)
+![Logo N8N](https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n)
 
 ###
 
