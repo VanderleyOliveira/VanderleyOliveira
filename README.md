@@ -1,14 +1,16 @@
 <h1 align="center">Hello, World!</h1>
 
+<h2>Main Stacks:</h2>
+
+![Logo JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Logo WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Logo N8N](https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n)
+![Logo Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Logo CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Logo Tailwind](https://img.shields.io/badge/TailwindCSS-1AAEB6?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Logo JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Logo React](https://img.shields.io/badge/React-01D1EC?style=for-the-badge&logo=React&logoColor=white)
-![Logo Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Logo WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Logo Elementor](https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=Elementor&logoColor=900d40)
-![Logo N8N](https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n)
 
 <h2>Contatos:</h2>
 
