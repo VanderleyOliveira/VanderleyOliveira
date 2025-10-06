@@ -1,43 +1,4 @@
-<h1 align="center">Hello World!</h1>
-
-```javascript
-const desenvolvedor = {
-
-  // 🧑🏽‍💻 Sobre Mim
-  sobre: {
-    nome: "Vanderley Oliveira",
-    localizacao: "Fortaleza - CE",
-    objetivo_profissional: "Desenvolver soluções que impactem positivamente a vida das pessoas"
-  }
-
-  // 🎓 Formações
-  formacoes: {
-    cursos: [
-      {
-        nome: "Tecnologo em Análise e Desenvolvimento de Sistemas",
-        instituicao: "UniCesumar",
-        data_inicio: "08/2024",
-        status: "em andamento"
-      },
-      {
-        nome: "Curso Técnico em Informática",
-        instituicao: "EEEP Alan Pinho Tabosa",
-        data_inicio: "01/2021",
-        data_conclusao: "12/2023",
-        status: "concluído"
-      }
-    ],
-    certificacoes: [
-      "Técnico em Informática",
-      "Santander Tech+ | Front-end"
-    ]
-  }
-};
-```
-
-###
-
-<h2>Stacks:</h2>
+<h1 align="center">Hello, World!</h1>
 
 ![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Logo CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -48,8 +9,6 @@ const desenvolvedor = {
 ![Logo WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Logo Elementor](https://img.shields.io/badge/Elementor-111?style=for-the-badge&logo=Elementor&logoColor=900d40)
 ![Logo N8N](https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n)
-
-###
 
 <h2>Contatos:</h2>
 
