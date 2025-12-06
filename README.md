@@ -1,8 +1,8 @@
 <h1 align="left">Greetings🫡, and welcome to my profile!</h1>
 
 <!-- images cats floats right for choice -->
-<!-- <img align="right" height="200" src="https://misty-plum-lv0sdwllla-bam6rtcuxa.edgeone.dev/cat.png"  /> -->
-<img align="right" height="200" src="https://explicit-brown-3degzrwdtz-v7jyfa58m1.edgeone.dev/cat2.png"  />
+<!-- <img align="right" height="200" src="./public/cat1.png"  /> -->
+<img align="right" height="200" src="./public/cat2.png"  />
 
 <p align="left">My name is Vanderley and I'm a Developer with experience in web, integrations, and automations.</p>
 
