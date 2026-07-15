@@ -13,7 +13,8 @@
 <p align="left">
   🧑🏽‍💻 Creating bugs since 2024<br>
   📚 I'm currently learning AI Agents and Automations<br>
-  🎯 Goals: Strengthen problem-solving and analytical thinking.
+  🎯 Goals: Strengthen problem-solving and analytical thinking.<br>
+  🗿 "Today's commit is the legacy I leave for tomorrow's programmer — who could be me."
 </p>
 
 ###
