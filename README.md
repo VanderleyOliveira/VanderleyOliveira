@@ -2,7 +2,7 @@
 
 <!-- images cats floats right for choice -->
 <!-- <img align="right" height="200" src="./public/cat1.png"  /> -->
-<img align="right" height="200" src="./public/cat2.png"  />
+<!-- <img align="right" height="200" src="./public/cat2.png"  /> -->
 
 <p align="left">My name is Vanderley and I'm a Developer with experience in web, integrations, and automations.</p>
 
