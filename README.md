@@ -1,4 +1,4 @@
-<h1 align="left">Greetings🫡, and welcome to my profile!</h1>
+<h1 align="left">Greetings and welcome to my profile! 🫡</h1>
 
 <!-- images cats floats right for choice -->
 <!-- <img align="right" height="200" src="./public/cat1.png"  /> -->
